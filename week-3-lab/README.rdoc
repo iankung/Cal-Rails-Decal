@@ -1,0 +1,4 @@
+== README
+This rails app is meant to help people get a feel for basic static pages.
+The instructions for this lab are in the lab1.txt file.  If there are bugs or
+comments feel free to leave an issue on this repo.
